@@ -1,0 +1,5 @@
+[base]
+flavours:
+ 5kc-malta
+ loongson-3
+ octeon

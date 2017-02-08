@@ -1,4 +1,7 @@
 [base]
+featuresets:
+ android
+ none
 flavours:
  marvell
 kernel-arch: arm

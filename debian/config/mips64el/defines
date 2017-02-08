@@ -1,4 +1,7 @@
 [base]
+featuresets:
+ android
+ none
 flavours:
  5kc-malta
  loongson-3

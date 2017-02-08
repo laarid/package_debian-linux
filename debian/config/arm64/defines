@@ -1,6 +1,7 @@
 [base]
 kernel-arch: arm64
 featuresets:
+ android
  none
 
 [build]
