@@ -49,6 +49,7 @@ arches:
  x32
 compiler: gcc-6
 featuresets:
+ android
  none
  rt
 
@@ -56,6 +57,9 @@ featuresets:
 debug-info: true
 # Enable module signing by default (implemented in the linux-signed package)
 signed-modules: true
+
+[featureset-android_base]
+enabled: true
 
 [featureset-rt_base]
 enabled: true

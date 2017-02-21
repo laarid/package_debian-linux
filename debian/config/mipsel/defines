@@ -1,4 +1,7 @@
 [base]
+featuresets:
+ android
+ none
 flavours:
  4kc-malta
  5kc-malta

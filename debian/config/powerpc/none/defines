@@ -1,0 +1,5 @@
+[base]
+flavours:
+ powerpc
+ powerpc-smp
+ powerpc64

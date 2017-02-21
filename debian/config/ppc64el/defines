@@ -1,4 +1,7 @@
 [base]
+featuresets:
+ android
+ none
 flavours:
  powerpc64le
 kernel-arch: powerpc

@@ -1,0 +1,13 @@
+Subject: Add localversion for -android release
+From: You-Sheng Yang <vicamo@gmail.com>
+Date: Wed, 08 Feb 2017 14:16:12 +0800
+
+Signed-off-by: You-Sheng Yang <vicamo@gmail.com>
+---
+ localversion-android |    1 +
+ 1 file changed, 1 insertion(+)
+
+--- /dev/null
++++ b/localversion-android
+@@ -0,0 +1 @@
++-android1

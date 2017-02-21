@@ -1,5 +1,6 @@
 [base]
 featuresets:
+ android
  none
  rt
 kernel-arch: x86

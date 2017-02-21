@@ -1,0 +1,7 @@
+[abi]
+ignore-changes: *
+
+[description]
+part-long-android: This kernel includes the Android specific features.
+part-short-android: ANDROID
+parts: android
